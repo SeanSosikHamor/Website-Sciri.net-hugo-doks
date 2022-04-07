@@ -1,9 +1,8 @@
 ---
 title: "FAQ"
-description: "Answers to frequently asked questions."
-lead: "Answers to frequently asked questions."
-date: 2020-10-06T08:49:31+00:00
-lastmod: 2020-10-06T08:49:31+00:00
+description: "Sean's answers to Frequently Asked Questions."
+lead: "Sean's answers to Frequently Asked Questions."
+date: 2022-04-07T15:06:11-04:00
 draft: false
 images: []
 menu:
@@ -13,38 +12,10 @@ weight: 630
 toc: true
 ---
 
-## Hyas?
+## What does Sciri mean?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+In the late eighties, Sean used Scirocco as his Internet Relay Chat (IRC) nickname and hacker handle. Once he joined EFNet in the early nineties, which didn't utilize NickServ, a battle over the Scirocco nickname ensued.
 
-## Footer notice?
+A college student from Scandinavia had laid unofficial claim to the nickname, and she used the greater bandwidth of her college dorm room connection to constantly ping flood Sean offline. This allowed her to grab the Scirocco nickname at her leisure.   
 
-Please keep it in place.
-
-## Keyboard shortcuts for search?
-
-- focus: `Ctrl + /`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
-
-## Other documentation?
-
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-
-## Can I get support?
-
-Create a topic:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Contact the creator?
-
-Send `h-enk` a message:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+So Sciri was chosen as a made-up word that sounded similar to Scirocco.
