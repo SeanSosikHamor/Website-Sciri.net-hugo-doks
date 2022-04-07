@@ -1,9 +1,9 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Sean Sosik-Hamor's Knowledge Base and Projects"
+description: "Specializing in Cybersecurity Engineering, Data Center Engineering, Photography, Event Logistics, and Event Networks, Sean has way too many interests and hobbies. After leaving his footprints all over the net, Sciri.net was created as Sean's knowledge base and index of personal, professional, and family projects."
+lead: "Specializing in Cybersecurity Engineering, Data Center Engineering, Photography, Event Logistics, and Event Networks, Sean has way too many interests and hobbies. After leaving his footprints all over the net, Sciri.net was created as Sean's knowledge base and index of personal, professional, and family projects."
+date: 2022-04-07T10:46:04+00:00
+lastmod: 2022-04-07T12:14:36+00:00
 draft: false
 images: []
 ---

@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
-titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title = "Sciri.net"
+titleSeparator = "—"
+titleAddition = "Sean Sosik-Hamor's Knowledge Base and Projects"
+description = "Sean has way too many interests and hobbies, and has left his footprints all over the net. Sciri.net is his knowledge base and index of personal, professional, and family projects."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -12,21 +12,21 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "sciri.net"
+titleHome = "Sean Sosik-Hamor's Knowledge Base and Projects"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@Sciri"
+twitterCreator = "@Sciri"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaName = "Sciri"
+schemaAuthor = "Sean Sosik-Hamor"
+schemaAuthorTwitter = "https://twitter.com/Sciri"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/sosikhamor/"
+schemaAuthorGitHub = "https://github.com/SeanSosikHamor"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaTwitter = "https://twitter.com/Sciri"
+schemaLinkedIn = "https://www.linkedin.com/in/sosikhamor/"
+schemaGitHub = "https://github.com/SeanSosikHamor"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -54,22 +54,22 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Copyright &copy; 2008–2022 Sean Sosik-Hamor. All Rights Reserved."
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright &copy; 2008–2022 Sean Sosik-Hamor. All Rights Reserved."
 
 # Alert
 alert = false
 alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+# alertText = "Alert 1"
+alertText = "Alert 2"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/SeanSosikHamor/Website-Sciri.net-hugo-doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false

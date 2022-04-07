@@ -4,7 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "17.8.0"
-  NPM_VERSION = "8.5.5"
+  NPM_VERSION = "8.6.0"
 
 [context.production]
   command = "npm run build"
@@ -25,7 +25,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://doks.netlify.app/"
+    baseUrl = "https://sciri.net/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [

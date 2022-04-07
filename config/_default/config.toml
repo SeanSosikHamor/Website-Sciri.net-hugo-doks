@@ -1,13 +1,17 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "https://sciri.net/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
-enableGitInfo = false
+enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+
+# Sciri.net Custom
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
 
 # Multilingual
 defaultContentLanguage = "en"
