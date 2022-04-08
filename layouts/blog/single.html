@@ -8,6 +8,7 @@
       </div>
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ .Content }}
+      <p><small><em><strong>Last updated:</strong> {{ .Lastmod.Format "January 2, 2006" }}</em></small></p>
     </article>
   </div>
 </div>
