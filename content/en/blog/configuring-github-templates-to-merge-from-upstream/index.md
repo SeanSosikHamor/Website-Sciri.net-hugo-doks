@@ -126,6 +126,13 @@ $ git pull upstream master --allow-unrelated-histories
 
 There are many workflows and personal preferences when it comes to resolving merge conflicts, and [GitHub has a basic tutorial](https://docs.github.com/en/enterprise-server/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line).
 
+## Other Methods
+
+The above steps essentially convert a template into a fork, which may not be desired. Other methods have been outlines by other developers:
+
+- [GitHub - Pull changes from a template repository](https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository)
+- [How to use Git to downstream changes from a template](https://medium.com/geekculture/how-to-use-git-to-downstream-changes-from-a-template-9f0de9347cc2) 
+
 ## Related Documentation
 - [Creating a repository from a template](https://docs.github.com/en/enterprise-server/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 - [Configuring a remote for a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork)
