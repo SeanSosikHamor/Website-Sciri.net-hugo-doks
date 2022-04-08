@@ -6,7 +6,7 @@ date: 2022-04-08T12:13:48-04:00
 draft: false
 weight: 50
 images: ["configuring-github-templates-to-merge-from-upstream.jpg"]
-contributors: []
+contributors: [Sean Sosik-Hamor]
 ---
 
 ## GitHub Templates Diverge From Upstream Repositories
@@ -131,7 +131,8 @@ There are many workflows and personal preferences when it comes to resolving mer
 The above steps essentially convert a template into a fork, which may not be desired. Other methods have been outlines by other developers:
 
 - [GitHub - Pull changes from a template repository](https://stackoverflow.com/questions/56577184/github-pull-changes-from-a-template-repository)
-- [How to use Git to downstream changes from a template](https://medium.com/geekculture/how-to-use-git-to-downstream-changes-from-a-template-9f0de9347cc2) 
+- [How to use Git to downstream changes from a template](https://medium.com/geekculture/how-to-use-git-to-downstream-changes-from-a-template-9f0de9347cc2)
+- [Propagating Git Template Changes Downstream](https://www.mslinn.com/blog/2020/11/30/propagating-git-template-changes.html)
 
 ## Related Documentation
 - [Creating a repository from a template](https://docs.github.com/en/enterprise-server/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
