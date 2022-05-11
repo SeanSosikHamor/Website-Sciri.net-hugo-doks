@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d114f6c6-0842-444b-80b3-dbeb24ff7751/deploy-status)](https://app.netlify.com/sites/sciri-net/deploys)
+
 # Website-Sciri.net-hugo-doks
 
 Sean's miscellaneous documentation site.
