@@ -54,10 +54,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Copyright &copy; 2008–2022 Sean Sosik-Hamor. All Rights Reserved."
+footer = "Copyright &copy; 2008–2023 Sean Sosik-Hamor. All Rights Reserved."
 
 # Feed
-copyRight = "Copyright &copy; 2008–2022 Sean Sosik-Hamor. All Rights Reserved."
+copyRight = "Copyright &copy; 2008–2023 Sean Sosik-Hamor. All Rights Reserved."
 
 # Alert
 alert = false
